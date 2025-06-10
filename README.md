@@ -1,48 +1,78 @@
-# Boise Ada County Solar Leads — High-Quality Scored Leads (Score 15 Only)
+# Boise Ada County Solar Property Leads
 
-Welcome to the Boise Ada County Solar Leads dataset! This repository contains approximately 10,000 top-quality property leads for solar installation companies focused on Ada County, Idaho (including Boise).
-
----
-
-## About the Data
-
-- **Source:** Ada County parcel data cleaned and scored based on key criteria relevant for solar potential.
-- **Lead Score:** Only properties with a perfect score of **15** (highest quality leads) are included.
-- **Scoring Criteria:** The score is calculated based on property value and acreage, with additional zoning information factored in to identify ideal solar installation prospects.
-- **File:** `cleaned_10k_15.csv` — contains approximately 10,000 top-scoring leads.
-- **Fields:** Parcel number, parcel ID, property type, address, city/state/ZIP, legal description, zoning, block, property value, acreage, grid zone, subdivision, and score.
+This project contains a curated and scored list of **high-value residential properties** in **Boise, Idaho (Ada County)** ideal for solar installation outreach. These leads have been filtered and scored using zoning, property value, and lot size to highlight the most solar-relevant homes in the region.
 
 ---
 
-## How to Use
+## 🔍 What’s Included
 
-This dataset is designed for solar companies looking to target high-potential properties in the Boise area.
+Each lead contains the following fields:
 
-- Leads are exclusive and filtered for quality.
-- Use this data to optimize marketing outreach, cold calls, or direct mail campaigns.
-- Exclusive leads may be available upon request.
-
----
-
-## Sample Preview
-
-| Parcel Number | Parcel ID   | Type | Address                | City, State, ZIP          | Legal Description      | Zoning    | Block | Property Value | Acreage | Grid Zone | Subdivision                  | Score |
-|---------------|-------------|------|------------------------|---------------------------|------------------------|-----------|-------|----------------|---------|-----------|------------------------------|-------|
-| 107131        | R5207001610 | R    | 8895 W MAPLEVIEW DR    | BOISE, ID 83702-0000      | LOTS 11/12 BLK 16      | R-1C/HD-O | 01-06 | $1,191,000     | 0.14    | 3N2E3     | LEMPS ADD                    | 15    |
-| 107132        | R5279160110 | R    | 8889 W MAPLEVIEW CIR   | BOISE, ID 83704-0000      | LOT 11 BLK 1           | R-1C      | 01-04 | $310,100       | 0.12    | 3N1E2     | LITTLE LANE ESTATES SUB NO 02| 15    |
-
-*(For privacy reasons, full dataset access is granted upon purchase.)*
+- Parcel ID  
+- Address  
+- ZIP Code  
+- Zoning Type  
+- Property Value  
+- Lot Size (Acreage)  
+- Subdivision  
+- Score (0–15)
 
 ---
 
-## Contact
+## 🧠 Scoring System
 
-For pricing, bulk access, exclusive leads, or questions, please reach out:
+Leads are scored from **0 to 15** based on two key factors:
 
-- **Xabi Robertson & Matthew Flacker**  
-- Email: xabirobertson@icloud.com  
-- Phone: 208-964-9505
+- **Assessed Property Value** (higher = better)
+- **Lot Size in Acres** (larger = better)
+
+Only leads with a **score of 15** (our highest tier) are included in the premium CSV offering. These are top-tier prospects ideal for solar panel installations — high home equity, larger properties, and correct residential zoning.
 
 ---
 
-*This dataset is intended for solar sales and marketing purposes only.*
+## 📊 Data Preview
+
+| Parcel ID   | Address             | Zoning | Value   | Acreage | Score |
+|-------------|---------------------|--------|---------|---------|-------|
+| R5207001610 | 8895 W MAPLEVIEW DR | R-1C   | $1,191,000 | 0.14    | 15    |
+| R5279160110 | 8889 W MAPLEVIEW CIR| R-1C   | $310,100  | 0.12    | 15    |
+
+(Note: Full file contains ~10,000 top-tier leads.)
+
+---
+
+## 💰 Pricing
+
+We offer flexible pricing based on lead volume, with discounts for larger orders and exclusive access options.
+
+| Package Size | Price   | Price per Lead |
+|--------------|---------|----------------|
+| 100 Leads    | $49     | $0.49          |
+| 500 Leads    | $199    | $0.40          |
+| 1,000 Leads  | $349    | $0.35          |
+| 5,000 Leads  | $1,499  | $0.30          |
+| 10,000 Leads | $2,499  | $0.25          |
+
+**Custom filters and ZIP code targeting available.**  
+**Exclusive leads** (sold only once) are available at a premium — contact us for details.
+
+---
+
+## 🎁 Free Sample
+
+Want to see the quality before buying?
+
+We offer a **free sample** of 10 high-scoring leads with partial or blurred addresses, so you can review the format and fields included.
+
+📧 Email: **xabirobertson@icloud.com**  
+📱 Text: **208-964-9505**  
+Subject line: **"Solar Leads Sample – Boise"**
+
+---
+
+## 👥 About Us
+
+**Created by:** Xabi Robertson & Matthew Flacker  
+**Contact:** xabirobertson@icloud.com | 208-964-9505  
+**Location:** Boise, Idaho  
+We do not c
